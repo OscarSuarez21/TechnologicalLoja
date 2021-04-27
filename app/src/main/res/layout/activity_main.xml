@@ -12,6 +12,7 @@
 
 
     <RelativeLayout
+
         android:id="@+id/reltive"
         android:layout_weight="4"
         android:layout_width="match_parent"
