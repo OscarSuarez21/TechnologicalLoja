@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: :wikitudesdk:@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/a817c5ef16e3de75696211628be205ea/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/fff8825bc4c8169d9b7fefaf6d2caa01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/a817c5ef16e3de75696211628be205ea/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/a817c5ef16e3de75696211628be205ea/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/a817c5ef16e3de75696211628be205ea/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/fff8825bc4c8169d9b7fefaf6d2caa01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/fff8825bc4c8169d9b7fefaf6d2caa01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/fff8825bc4c8169d9b7fefaf6d2caa01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

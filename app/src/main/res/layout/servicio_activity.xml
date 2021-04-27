@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_color">
+
+    <RelativeLayout
+        android:id="@+id/reltive"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="2dp"
+        android:layout_weight="4">
+
+        <TextView
+            android:id="@+id/txtinicio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="Ubicacion"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:layout_below="@+id/txtinicio"
+            android:layout_marginTop="33dp"
+            android:text="Nos puedes ubicar en la siguiente direccion Granada, Loja o para mas detalles ve al mapa siguiente"
+            android:textSize="24sp" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="match_parent"
+            android:layout_height="232dp"
+            android:layout_below="@+id/textView"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="29dp"
+            android:layout_marginEnd="0dp"
+            android:onClick="irmapa"
+            app:srcCompat="@drawable/images" />
+
+    </RelativeLayout>
+
+</LinearLayout>
